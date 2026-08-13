@@ -1,0 +1,18 @@
+/* mainpage and allencompassing */
+
+body {font-family: Georgia, Times, serif;}
+nav {text-align: center; padding: 50px; margin: 0 auto;}
+nav {background-image: url("../images/pkb.png");}
+ul {list-style-type: none;}
+h1 {color: #540369; font-weight: bold; font-size: 300%;}
+a:link {text-decoration: underline; color: #030bfc; background-color: #fcfcfc;}
+a:visited {text-decoration: line-through; color: #ca03fc; background-color: #fcfcfc;}
+div {border: medium solid #0d0c0d; padding: 20px; margin: 20px;}
+div#mpcontent {display: grid; grid-template-columns: 1fr 1fr;}
+div#oshawott {border: thin solid #5e9af2;}
+div#snivy {border: thin solid #12960b;}
+div#tepig {border: thin solid #fa7719;}
+
+/* individual pages */
+
+p.pppic {float: left; margin: 20px;}
